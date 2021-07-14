@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moshe-coh&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiusername=moshe-coh&show_icons=true&theme=radical)
 
 
 

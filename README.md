@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1FF72F&center=true&vCenter=true&lines=Hello%2C+My+Name+Is+Moshe!)](https://git.io/typing-svg)
+
+
 <!--
 **moshe-coh/moshe-coh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

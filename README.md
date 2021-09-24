@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 📊 Stats
-[![Metrics](https://github.com/AnjanaMadu/AnjanaMadu/raw/main/github-metrics.svg)](https://github.com/AnjanaMadu)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moshe-coh&theme=highcontrast&show_icons=true)

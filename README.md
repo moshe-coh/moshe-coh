@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 📊 Stats
+[![Metrics](https://github.com/moshe-coh/moshe-coh/raw/main/github-metrics.svg)](https://github.com/moshe-coh)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moshe-coh&theme=highcontrast&show_icons=true)

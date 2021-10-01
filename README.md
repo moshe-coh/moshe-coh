@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 ## 📊 Stats
 [![Metrics](https://github.com/moshe-coh/moshe-coh/raw/main/github-metrics.svg)](https://github.com/moshe-coh)
 
+## 👀 views
+![](https://komarev.com/ghpvc/?username=moshe-coh)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moshe-coh&theme=highcontrast&show_icons=true)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moshe-coh)](https://github.com/anuraghazra/github-readme-stats)
 
-## 👀 views
-![](https://komarev.com/ghpvc/?username=moshe-coh)
